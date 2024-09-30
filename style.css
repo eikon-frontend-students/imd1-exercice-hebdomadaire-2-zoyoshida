@@ -1,0 +1,18 @@
+div {
+  color: hsla(76, 72%, 11%, 1);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+
+  background-color: hsla(76, 89%, 63%, 1);
+  padding: 30px;
+  max-width: 500px;
+  border-bottom-right-radius: 120px;
+}
+h1 {
+  margin-top: 0px;
+}
+
+img {
+  max-width: 500px;
+  border-bottom-right-radius: 100px;
+}
